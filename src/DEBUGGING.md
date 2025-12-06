@@ -16,7 +16,8 @@ This React app contains bugs . Below are common debugging techniques and specifi
 
 ## Specific Bugs in This App Before Debugging
 
-![alt text](<Screenshot 2025-12-06 223027.png>)
+![alt text](image-1.png)
+![alt text](<assets/images/Screenshot 2025-12-06 223027.png>)
 
 ### 1. Missing Description Prop
 
@@ -47,4 +48,3 @@ This React app contains bugs . Below are common debugging techniques and specifi
 ## After Debugging
 
 ![alt text](image.png)
-![alt text](<Screenshot 2025-12-06 224432.png>)
