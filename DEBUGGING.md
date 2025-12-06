@@ -25,7 +25,7 @@ These foundational techniques form the backbone of efficient React debugging. Th
 
 This section details the three primary bugs intentionally introduced to simulate real-world oversights. Each includes the root cause, observable symptoms, and a targeted fix. Understanding these helps in recognizing patterns from hasty implementations or overlooked prop drilling.
 
-![alt text](<assets/images/Before_Screenshot _2025-12-06 223027.png>)
+![alt text](<src/assets/images/Before_Screenshot _2025-12-06 223027.png>)
 
 ### 1. Missing Description Prop
 
@@ -83,4 +83,4 @@ As a senior developer, prevention is key to reducing debugging time. Incorporate
 
 After applying the fixes, the app should render correctly with the proper description, toggleable button, and accurate pricing. This demonstrates how small changes cascade into a polished UI.
 
-![alt text](<assets/images/After_Screenshot_2025-12-06 224432.png>)
+![alt text](<src/assets/images/After_Screenshot_2025-12-06 224432.png>)
